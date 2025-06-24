@@ -1,5 +1,10 @@
 # Space Physics Practical Education Project
 
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.CN.md)
+
 This project documents my first-authored and corresponding-authored review on space physics hands-on education, published in *Reviews of Geophysics and Planetary Physics*.
 
 ## Project Highlights
