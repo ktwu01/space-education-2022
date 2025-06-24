@@ -22,3 +22,15 @@ This project documents my first-authored and corresponding-authored review on sp
 - Journal: Reviews of Geophysics and Planetary Physics
 - DOI: [10.19975/j.dqyxx.2023-019](https://www.sjdz.org.cn/en/article/doi/10.19975/j.dqyxx.2023-019)
 - Role: First Author & Corresponding Author
+
+## Advisors
+
+**Project Advisory Team**:
+- [Prof. Jiuhou Lei](https://www.scopus.com/authid/detail.uri?authorId=7201403725) - University of Science and Technology of China
+- [Prof. Tao Li](https://www.scopus.com/authid/detail.uri?authorId=56959615400) - University of Science and Technology of China
+- [Prof. Wen Yi](https://www.scopus.com/authid/detail.uri?authorId=57162229500) - University of Science and Technology of China
+- [Prof. Yu Liu](https://scholar.google.com/citations?user=x8NJrnsAAAAJ) - University of Science and Technology of China
+- [Prof. Libo Liu](https://www.scopus.com/authid/detail.uri?authorId=7405258672) - Chinese Academy of Sciences
+- and other distinguished experts
+
+**Research Focus**: Observation & Experiment, Space Physics Practical Education
