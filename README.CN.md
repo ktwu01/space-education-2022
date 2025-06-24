@@ -1,5 +1,10 @@
 # 空间科学与技术专业实践教育项目
 
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.CN.md)
+
 本项目记录了我作为第一作者和通讯作者撰写的空间物理实践教育综述，发表于《地球与行星物理论评》期刊。
 
 ## 项目亮点
@@ -31,6 +36,6 @@
 - [易稳教授](https://www.scopus.com/authid/detail.uri?authorId=57162229500) - 中国科学技术大学
 - [刘宇教授](https://scholar.google.com/citations?user=x8NJrnsAAAAJ) - 中国科学技术大学
 - [刘立波研究员](https://www.scopus.com/authid/detail.uri?authorId=7405258672) - 中国科学院 
-- 等其他专家学者
+- 以及其他专家学者
 
 **指导方向**: 观测实验与数据分析、空间物理实践教育
