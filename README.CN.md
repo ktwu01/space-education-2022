@@ -23,3 +23,14 @@
 - 期刊: 地球与行星物理论评 (Reviews of Geophysics and Planetary Physics)
 - DOI: [10.19975/j.dqyxx.2023-019](https://www.sjdz.org.cn/en/article/doi/10.19975/j.dqyxx.2023-019)
 - 状态: 第一作者兼通讯作者
+
+## 致谢
+**项目指导老师团队**:
+- [雷久侯教授](https://www.scopus.com/authid/detail.uri?authorId=7201403725) - 中国科学技术大学
+- [李陶教授](https://www.scopus.com/authid/detail.uri?authorId=56959615400) - 中国科学技术大学  
+- [易稳教授](https://www.scopus.com/authid/detail.uri?authorId=57162229500) - 中国科学技术大学
+- [刘宇教授](https://scholar.google.com/citations?user=x8NJrnsAAAAJ) - 中国科学技术大学
+- [刘立波研究员](https://www.scopus.com/authid/detail.uri?authorId=7405258672) - 中国科学院 
+- 等其他专家学者
+
+**指导方向**: 观测实验与数据分析、空间物理实践教育
