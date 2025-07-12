@@ -8,7 +8,7 @@
 This project documents my first-authored and corresponding-authored review on space physics hands-on education, published in *Reviews of Geophysics and Planetary Physics*.
 
 ## 🔥 News
-- 🎉 本工作被中国科学技术大学地球和空间科学学院报道：[[链接]](https://ess.ustc.edu.cn/2023/0827/c31921a610563/pagem.htm#:~:text=吴叩天)
+- 🎉 本工作被中国科学技术大学地球和空间科学学院报道：[[链接]](https://ess.ustc.edu.cn/2023/0827/c31921a610563/pagem.htm#:~:text=吴叩天) [[快照详见本repo的PDF]]()
 
 ## Project Highlights
 
