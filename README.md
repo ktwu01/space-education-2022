@@ -8,7 +8,7 @@
 This project documents my first-authored and corresponding-authored review on space physics hands-on education, published in *Reviews of Geophysics and Planetary Physics*.
 
 ## 🔥 News
-- 🎉 本工作被中国科学技术大学地球和空间科学学院报道：[[链接]](https://ess.ustc.edu.cn/2023/0827/c31921a610563/pagem.htm#:~:text=吴叩天) [[快照详见本repo的PDF]]()
+- 🎉 本工作被中国科学技术大学地球和空间科学学院报道：[[链接]](https://ess.ustc.edu.cn/2023/0827/c31921a610563/pagem.htm#:~:text=吴叩天) [[快照详见本repo的PDF]](papers/我院20级本科生在《地球与行星物理论评》上发表空间物理实践教育总结文章.pdf)
 
 ## Project Highlights
 
@@ -30,6 +30,10 @@ This project documents my first-authored and corresponding-authored review on sp
 - Journal: Reviews of Geophysics and Planetary Physics
 - DOI: [10.19975/j.dqyxx.2023-019](https://www.sjdz.org.cn/en/article/doi/10.19975/j.dqyxx.2023-019)
 - Role: First Author & Corresponding Author
+
+## Reproduce
+
+If you want the reproduction code, you can ask by email for a link from any of the professors listed in the **Advisors** section.
 
 ## Advisors
 
